@@ -1,6 +1,7 @@
 lsi: false
 safe: true
 source: pages
+theme: minima
 incremental: false
 highlighter: rouge
 gist:
